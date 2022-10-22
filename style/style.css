@@ -1,0 +1,236 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+nav{
+	background-color: white;
+	width: 100%;
+	height: 90px;
+}
+.logo img{
+	float: left;
+	margin-left: 10px;
+}
+ul{
+	float: right;
+	margin: 40px;
+	margin-left: 100px;
+}
+ul li{
+	display: inline-block;
+	padding-right: 15px;
+}
+ul li a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+ul li a:hover{
+	color: red;
+	border-top: 3px solid tomato;
+}
+.box2{
+	height: 100px;
+	width: 45%;
+	text-align: left;
+	padding-top: 20px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+.box3{
+	height: 100px;
+	width: 45%;
+	text-align: left;
+	padding-top: 20px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+.text{
+	background-color: white;
+	width: 45%;
+	text-align: right;
+	height: 350px;
+	margin-top: 70px;
+	margin-left: 20px;
+	float: left;
+	text-align: right;
+	padding-top: 10px;
+	padding-right: 40px
+}
+.img{
+	width: 400px;
+	height: 350px;
+	margin-top: 80px;
+	float: left;
+	margin-left: 12.5px;
+}
+#color{
+	background-color: lightblue;
+	width: 100%;
+	height: 670px;
+	margin-top: 650px;
+	text-align: center;
+	padding-top: 80px;
+}
+.active{
+	color: tomato;
+}
+.check-img{
+	margin-top: 30px;
+}
+.check{
+	margin-top: 50px;
+	margin-left: 40px;
+}
+.check a{
+	font-size: 15px;
+	padding-right: 15px;
+	text-decoration: none;
+	color: black;
+}
+.check a:hover{
+	color: red;
+
+}
+button{
+	margin-top: 30px;
+	width: 200px;
+	height: 40px;
+	background-color: tomato;
+	border-style: none;
+	margin-right: 10px;
+}
+button a{
+	color: white;
+	text-decoration: none;
+}
+#white{
+	width: 100%;
+	height: 370px;
+	background-color: white;
+	text-align: center;
+	padding-top: 40px;
+}
+h1{
+	font-size: 50px;
+	padding-bottom: 20px;
+}
+.rating, .people, .now{
+	background-color: white;
+	margin-left: 40px;
+	margin-top: 80px;
+	margin-left: 170px;
+	width: 20%;
+	height: 200px;
+	float: left;
+	text-align: left;
+	padding-left: 10px;
+	padding-top: 20px;  
+}
+#pink{
+	width: 100%;
+	height: 500px;
+	background-color: pink;
+}
+.wifi, .cafa, .work, .locker, .secured, .printer, .well, .access, .other{
+	width: 290px;
+	height: 150px;
+	padding-left: 10px;
+	padding-top: 40px;
+	background-color: pink;
+	margin-top: 30px;
+	margin-left: 25px;
+	float: left;
+}
+#spain-bed-img{
+	width: 100%;
+	height: 700px;
+}
+.spain{
+	width: 45%;
+	height: 500px;
+	margin-top: 100px;
+	margin-left: 50px;
+	float: left;
+	padding-left: 20px;
+	padding-top: 40px;
+}
+.bed-img{
+	width: 45%;
+	height: 540px;
+	background-color: yellow;
+	margin-top: 100px;
+	margin-left: 14px;
+	float: left;
+}
+.png{
+	text-decoration: none;
+	background-color: white;
+	border-bottom: 0.5px solid black;
+}
+#sofa-img{
+	width: 100%;
+	height: 700px;
+}
+.denmark{
+	width: 45%;
+	height: 500px;
+	margin-top: 100px;
+	margin-left: 14px;
+	float: left;
+	padding-left: 20px;
+	padding-top: 40px;
+}
+.sofa-img{
+	width: 45%;
+	height: 540px;
+	background-color: yellow;
+	margin-top: 100px;
+	margin-left: 60px;
+	float: left;
+}
+.png{
+	text-decoration: none;
+	background-color: white;
+	border-bottom: 0.5px solid black;
+}
+#amsterdam-img{
+	width: 100%;
+	height: 700px;
+}
+.amsterdam{
+	width: 45%;
+	height: 500px;
+	margin-top: 100px;
+	margin-left: 50px;
+	float: left;
+	padding-left: 20px;
+	padding-top: 40px;
+}
+.table-img{
+	width: 45%;
+	height: 540px;
+	background-color: yellow;
+	margin-top: 100px;
+	margin-left: 14px;
+	float: left;
+}
+.png{
+	text-decoration: none;
+	background-color: white;
+	border-bottom: 0.5px solid black;
+}
+#book-now{
+	width: 100%;
+	height: 500px;
+	margin-top: 630px;
+}
+#asked{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	margin-top: 100px;
+	padding-top: 80px;
+}
